@@ -12,3 +12,6 @@
 
 #Tsak 5
 -- Created feature-multiply branch and added multiply functionality code.
+
+#Task 6
+-- Created feature-divide branch and added divide functionality code.
