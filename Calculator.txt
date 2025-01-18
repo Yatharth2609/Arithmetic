@@ -1,4 +1,13 @@
 class Calculator {
+
+    private static int add(int x, int y) {
+	return a + b;
+    }
+
+    public static int subtract(int x, int y) {
+	return a >= b ? a - b : b - a;
+    }
+
     public static void main(Stringp[] args) {
 
     }
