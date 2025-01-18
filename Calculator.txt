@@ -1,4 +1,8 @@
 class Calculator {
+    private static int Divide(int x, int y) {
+	return a > b ? (int)(a / b) : (int)(b / a);
+    }
+
     public static void main(Stringp[] args) {
 
     }
