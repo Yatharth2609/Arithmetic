@@ -1,4 +1,8 @@
 class Calculator {
+
+    private static int multiply(int x, int y) {
+	return a * b;
+    }
     public static void main(Stringp[] args) {
 
     }
